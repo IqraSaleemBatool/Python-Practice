@@ -21,7 +21,7 @@ I created this repository to:
 4.  Have a place to look back at my notes if I ever forget how to do something.
 
 ##  How to use this
-Feel free to browse the folders and check out the notebooks. If you are also taking a similar Coursera course, hopefully, these files can help you out if you get stuck!
+Feel free to browse the folders and check out the notebooks. If you are also taking a similar Coursera course, hopefully, these files can help you out if you get stuck!!
 
 *Note: Some of these files are assignments from the courses, so please try to solve them yourself first before looking at my code!* 
 

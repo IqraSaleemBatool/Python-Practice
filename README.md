@@ -11,7 +11,7 @@ Here you'll find my practice files covering various topics, including:
 *   Data Analysis (Pandas, NumPy)
 *   Data Visualization (Matplotlib, Seaborn)
 *   Web Scraping & APIs
-*   And whatever else I learn along the way!
+*   And whatever else I Learn along the way!
 
 ##  Why I made this
 I created this repository to:

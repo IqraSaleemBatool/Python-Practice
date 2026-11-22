@@ -1,6 +1,6 @@
 # Python Practice  Files 
 
-Hi! Welcome to my Python practice repository. 
+Hi! Welcome To my Python practice repository. 
 
 This repo is basically my digital notebook where I will upload all the Jupyter Notebooks, assignments, and coding exercises I complete while taking Python courses on Coursera. It's a Collection of my Learning Journey and a way for me to keep track of my progress.
 

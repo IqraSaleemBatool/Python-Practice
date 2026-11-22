@@ -23,7 +23,7 @@ I created this repository to:
 ##  How to use this
 Feel free to browse the folders and check out the Notebooks. If you are also taking a similar Coursera course, hopefully, these files can help you out if you get stuck!!
 
-*Note: Some of these files are assignments from the courses, so please try to solve them yourself first before looking at my code!* 
+*Note: Some of these files are Assignments from the courses, so please try to solve them yourself first before looking at my code!* 
 
 ##  Future Plans
 I'll Keep Updating this repo as I finish more courses and learn new Python skills. 
